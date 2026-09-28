@@ -1,0 +1,6 @@
+{
+  "name": "Muskan's Birthday Celebration",
+  "description": "An interactive, magical birthday celebration web app for Muskan with pastel pink, lavender, animated cake, candles, surprise gift, music, and sparkles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
